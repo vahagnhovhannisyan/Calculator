@@ -17,7 +17,7 @@
         android:background="#FAFAFA"
         android:gravity="bottom|right|center_vertical"
         android:text="0"
-        android:textSize="25sp"
+        android:textSize="34sp"
         android:textStyle="bold" />
 
     <LinearLayout
@@ -25,7 +25,6 @@
         android:layout_height="match_parent"
         android:layout_weight="1"
         android:orientation="horizontal"
-        android:color
         >
 
 
@@ -37,7 +36,7 @@
             android:background="#918B8B"
             android:gravity="center_horizontal|center_vertical"
             android:text="AC"
-            android:textSize="20sp"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -48,7 +47,7 @@
             android:background="#918B8B"
             android:gravity="center_horizontal|center_vertical"
             android:text="+/-"
-            android:textSize="20sp"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -59,7 +58,7 @@
             android:background="#918B8B"
             android:gravity="center_horizontal|center_vertical"
             android:text="%"
-            android:textSize="20sp"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -70,8 +69,8 @@
             android:background="#FF9800"
             android:gravity="center_horizontal|center_vertical"
             android:shadowColor="#813030"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="÷"
+            android:textSize="34sp"
             android:textStyle="bold" />
     </LinearLayout>
 
@@ -89,8 +88,8 @@
             android:layout_weight="1"
             android:background="#2C2626"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="7"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -100,8 +99,8 @@
             android:layout_weight="1"
             android:background="#2C2626"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="8"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -111,8 +110,8 @@
             android:layout_weight="1"
             android:background="#2C2626"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="9"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -122,8 +121,8 @@
             android:layout_weight="1"
             android:background="#FF9800"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="*"
+            android:textSize="34sp"
             android:textStyle="bold" />
     </LinearLayout>
 
@@ -141,8 +140,8 @@
             android:layout_weight="1"
             android:background="#2C2626"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="4"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -152,8 +151,8 @@
             android:layout_weight="1"
             android:background="#2C2626"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="5"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -163,8 +162,8 @@
             android:layout_weight="1"
             android:background="#2C2626"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="6"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -174,8 +173,8 @@
             android:layout_weight="1"
             android:background="#FF9800"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="-"
+            android:textSize="34sp"
             android:textStyle="bold" />
     </LinearLayout>
 
@@ -194,8 +193,8 @@
             android:layout_weight="1"
             android:background="#2C2626"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="1"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -205,8 +204,8 @@
             android:layout_weight="1"
             android:background="#2C2626"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="2"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -216,8 +215,8 @@
             android:layout_weight="1"
             android:background="#2C2626"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="3"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -227,8 +226,8 @@
             android:layout_weight="1"
             android:background="#FF9800"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="+"
+            android:textSize="34sp"
             android:textStyle="bold" />
     </LinearLayout>
 
@@ -243,11 +242,11 @@
             android:id="@+id/textView0"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_weight="0.66"
+            android:layout_weight="0.66666666"
             android:background="#2C2626"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="0"
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -257,8 +256,8 @@
             android:layout_weight="1"
             android:background="#2C2626"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="."
+            android:textSize="34sp"
             android:textStyle="bold" />
 
         <TextView
@@ -268,8 +267,8 @@
             android:layout_weight="1"
             android:background="#FF9800"
             android:gravity="center_horizontal|center_vertical"
-            android:text="TextView"
-            android:textSize="20sp"
+            android:text="="
+            android:textSize="34sp"
             android:textStyle="bold" />
     </LinearLayout>
 </LinearLayout>
